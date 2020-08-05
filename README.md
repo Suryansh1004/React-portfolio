@@ -5,6 +5,8 @@
 
  A Beautiful portfolio web app template for developers built with react. Use it to showcase your work, testimonials, and other information to clients.
  
+ ## [DEMO](https://suryansh-about.netlify.app/)
+ 
  ## DARK MODE
  
  <img src="images/1.jpg">
