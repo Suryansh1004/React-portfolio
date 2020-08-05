@@ -1,4 +1,3 @@
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="images/reactjs.png" height=300 width=450>
 
  
 # [React-portfolio](https://suryansh-about.netlify.app/)
@@ -12,4 +11,6 @@
  
   ## Light mode
  
- <img src="images/2.jpg">
+ <img src="images/2.jpg"> </br>
+ 
+<img src="images/3.jpg">
