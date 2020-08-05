@@ -1,4 +1,4 @@
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="images/reactjs.png" height=300 width=450>
+  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="images/reactjs.png" height=300 width=450>
 
  
 # [React-portfolio](https://suryansh-about.netlify.app/)
